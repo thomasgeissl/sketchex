@@ -1,0 +1,16 @@
+{
+  "name": "sketchex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@svgr/cli": "^4.3.3",
+    "fs-extra": "^8.1.0"
+  },
+  "bin": {
+    "sketchex": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node ./src/index.js framerx ./example/design.sketch ./example/example.framerfx/code/"
+  }
+}

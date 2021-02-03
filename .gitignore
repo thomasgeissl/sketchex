@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+example/example.framerfx/code/data/tmp.sketch
+example/example.framerfx/code/.vscode
+.vscode/launch.json

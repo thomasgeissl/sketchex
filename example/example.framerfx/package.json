@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "baf9bc55-3a4d-4a2e-aa82-b5429a7c3338"
+	},
+	"author": "Thomas Geissl",
+	"dependencies": {
+		"styled-components": "^4.4.1"
+	}
+}
